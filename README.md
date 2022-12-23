@@ -9,4 +9,8 @@
 ##### WordPress
 ![alt text][logo]
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Wordpress"
+[logo]: [https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png](https://user-images.githubusercontent.com/121240620/209313108-f870512c-fad8-421f-8be2-fdeefd3f8110.png) "Wordpress"
+
+## Case Diagram below:
+
+### This stock inventory system is made for LGU-DAVAO
